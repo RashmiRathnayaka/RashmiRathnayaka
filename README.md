@@ -12,6 +12,8 @@
       
 🌱 I’m currently learning **React.js, Node.js, MongoDB, Tailwind CSS, System Design**
 
+🎓 I'm an Undergraduate at **SLIIT**
+
 👨‍💻 All of my projects are available at [https://rashmirathnayaka.github.io/My-Portfolio/](https://rashmirathnayaka.github.io/My-Portfolio/)
 
 💬 Ask me about **React, JavaScript (ES6+), UI Design, MERN Stack**
