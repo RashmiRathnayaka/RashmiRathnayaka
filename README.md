@@ -1,11 +1,9 @@
 <div align="center">
   <img src="./girl.svg" alt="Animated Coder Girl" width="160" />
 </div>
-<br/>
 <h1 align="center">Hi 👋, I'm Rashmi Rathnayaka</h1>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmirathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="rashmirathnayaka" /> </p>
-<br/>
 <table border="0" cellpadding="0" cellspacing="0" width="100%">
   <tr>
     <td width="55%" valign="top">
