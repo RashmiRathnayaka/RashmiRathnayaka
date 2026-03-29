@@ -2,6 +2,10 @@
   <img src="./girl.svg" alt="Animated Coder Girl" width="160" />
 </div>
 <h1 align="center">Hi 👋, I'm Rashmi Rathnayaka</h1>
+<p align="center">
+  <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Rashmi Rathnayaka;I+am+a+Under+Graduate+student;Web+Dev+%3C3"></a>
+</p>
+
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmirathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="rashmirathnayaka" /> </p>
