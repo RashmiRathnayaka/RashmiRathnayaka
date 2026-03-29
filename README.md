@@ -4,18 +4,18 @@
 <h1 align="center">Hi 👋, I'm Rashmi Rathnayaka</h1>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmirathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="rashmirathnayaka" /> </p>
-<table border="0" cellpadding="0" cellspacing="0" width="100%">
+<table border="0" cellpadding="5" cellspacing="5" width="100%">
   <tr>
     <td width="70%" valign="top">
-- 🌱 I’m currently learning **React.js, Node.js, MongoDB, Tailwind CSS, System Design**
+🌱 I’m currently learning **React.js, Node.js, MongoDB, Tailwind CSS, System Design**
 
-- 👨‍💻 All of my projects are available at [https://rashmirathnayaka.github.io/My-Portfolio/](https://rashmirathnayaka.github.io/My-Portfolio/)
+👨‍💻 All of my projects are available at [https://rashmirathnayaka.github.io/My-Portfolio/](https://rashmirathnayaka.github.io/My-Portfolio/)
 
-- 💬 Ask me about **React, JavaScript (ES6+), UI Design, MERN Stack**
+💬 Ask me about **React, JavaScript (ES6+), UI Design, MERN Stack**
 
-- 📫 How to reach me **rashmipra02@gmail.com**
+📫 How to reach me **rashmipra02@gmail.com**
 
-- ⚡ Fun fact **I enjoy turning complex ideas into clean and user-friendly interfaces 😄**
+⚡ Fun fact **I enjoy turning complex ideas into clean and user-friendly interfaces 😄**
 </td>
     <td width="30%" valign="top" align="right">
       <img src="./tech.svg" alt="Yellow Tech Network" width="360" />
