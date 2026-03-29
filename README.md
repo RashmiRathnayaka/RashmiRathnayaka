@@ -3,8 +3,8 @@
 </div>
 <h1 align="center">Hi 👋, I'm Rashmi Rathnayaka</h1>
 <p align="center">
-  <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka"><img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&center=true&vCenter=true&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Rashmi Rathnayaka;I+am+a+Under+Graduate+student;Web+Dev+%3C3"></a>
-</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Rashmi+Rathnayaka;I+am+a+Under+Graduate+student;Web+Dev+%3C3" alt="Typing SVG" />
+</p>>
 
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
@@ -33,12 +33,7 @@
 </table>
 ---
 
-[![Rashmi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=rashmirathnayaka&theme=tokyonight)](https://git.io/praveenscience)
-| ![Rashmi's github stats](https://github-readme-stats.vercel.app/api?username=rashmirathnayaka&show_icons=true&theme=tokyonight) | ![Rashmi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashmirathnayaka&theme=tokyonight) |
-| --- | --- |
-| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rashmirathnayaka&theme=tokyonight) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=rashmirathnayaka&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=tokyonight) |
-
-![Jokes Card](https://readme-jokes.vercel.app/api?theme=tokyonight)
+ | ![Rashmi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashmirathnayaka&theme=tokyonight) |
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
