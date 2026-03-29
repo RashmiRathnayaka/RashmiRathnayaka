@@ -35,9 +35,7 @@
   
   ![Rashmi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashmirathnayaka&theme=tokyonight)
 </div>
-<h3>My GitHub Stats</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rashmirathnayaka&show_icons=true&theme=dark&locale=en&layout=compact" alt="anii693" /></p>
-
+<br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rashmi-rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi-rathnayaka" height="35" width="45" /></a>
