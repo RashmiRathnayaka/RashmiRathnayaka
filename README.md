@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./girl.svg" alt="Animated Coder Girl" width="160" />
+  <img src="./girl.svg" alt="Animated Coder Girl" width="150" />
 </div>
 <h1 align="center">Hi 👋, I'm Rashmi Rathnayaka</h1>
 <p align="center">
