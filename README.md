@@ -1,11 +1,10 @@
 <div align="center">
   <img src="./girl.svg" alt="Animated Coder Girl" width="160" />
 </div>
-<h1 align="center">Hi 👋, I'm Rashmi Rathnayaka</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%2C+welcome+to+my+Github+page;I+am+Rashmi+Rathnayaka;I+am+a+Under+Graduate+student;Web+Dev+%3C3" alt="Typing SVG" />
-</p>>
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Hi+%2C+welcome+to+my+Github+page;I+am+a+Under+Graduate+student;Full+Stack+Developer;UI+/+UX+Designer+%3C3" alt="Typing SVG" />
+</p>
+---
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmirathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="rashmirathnayaka" /> </p>
