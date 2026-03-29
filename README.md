@@ -3,10 +3,12 @@
 </div>
 <h1 align="center">Hi 👋, I'm Rashmi Rathnayaka</h1>
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmirathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="rashmirathnayaka" /> </p>
+
 <table border="0" cellpadding="" cellspacing="5" width="100%">
   <tr>
-    <td width="70%" valign="top">
+    <td width="65%" valign="top">
       
 🌱 I’m currently learning **React.js, Node.js, MongoDB, Tailwind CSS, System Design**
 
@@ -18,7 +20,7 @@
 
 ⚡ Fun fact **I enjoy turning complex ideas into clean and user-friendly interfaces** 😄
 </td>
-    <td width="30%" valign="top" align="right">
+    <td width="35%" valign="top" align="right">
       <img src="./tech.svg" alt="Yellow Tech Network" width="360" />
     </td>
   </tr>
