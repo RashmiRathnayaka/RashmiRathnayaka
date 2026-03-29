@@ -31,7 +31,10 @@
   </tr>
 </table>
 
-![Rashmi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashmirathnayaka&theme=tokyonight)
+<div align="center">
+  
+  ![Rashmi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashmirathnayaka&theme=tokyonight)
+</div>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
