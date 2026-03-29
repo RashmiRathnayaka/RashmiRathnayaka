@@ -1,107 +1,108 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="200" height="240" viewBox="0 0 200 240">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 200 230" width="100%" height="100%">
   <defs>
-    <filter id="glow" x="-50%" y="-50%" width="200%" height="200%">
-      <feGaussianBlur stdDeviation="2" result="blur"/>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="2" result="coloredBlur"/>
       <feMerge>
-        <feMergeNode in="blur"/>
+        <feMergeNode in="coloredBlur"/>
         <feMergeNode in="SourceGraphic"/>
       </feMerge>
     </filter>
   </defs>
-  
+
   <g>
+    <!-- Floating Animation -->
     <animateTransform attributeName="transform" type="translate" values="0,0; 0,-6; 0,0" dur="3s" repeatCount="indefinite"/>
-    
-    <ellipse cx="100" cy="80" rx="50" ry="52" fill="#0d1117"/>
-    <path d="M50 80 Q50 145 68 168 L58 173 Q42 148 50 80Z" fill="#0d1117"/>
-    <path d="M150 80 Q150 145 132 168 L142 173 Q158 148 150 80Z" fill="#0d1117"/>
-    
-    <path d="M65 130 Q58 145 52 188 L70 198 L100 203 L130 198 L148 188 Q142 145 135 130Z" fill="#161b22"/>
-    <path d="M75 130 L72 170" stroke="#30363d" stroke-width="1.5"/>
-    <path d="M125 130 L128 170" stroke="#30363d" stroke-width="1.5"/>
-    
-    <path d="M65 85 Q65 52 100 42 Q135 52 135 85 Q135 100 130 112 L125 130 Q110 135 100 135 Q90 135 75 130 L70 112 Q65 100 65 85Z" fill="#161b22"/>
-    <path d="M70 87 Q70 58 100 49 Q130 58 130 87" stroke="#30363d" stroke-width="1.5" fill="none"/>
-    
-    <ellipse cx="100" cy="97" rx="28" ry="30" fill="#e8c4a0"/>
-    
+
+    <!-- Hair Back -->
+    <ellipse cx="100" cy="80" rx="52" ry="55" fill="#18182b"/>
+    <path d="M48 80 Q48 145 65 165 L55 170 Q38 145 48 80Z" fill="#18182b"/>
+    <path d="M152 80 Q152 145 135 165 L145 170 Q162 145 152 80Z" fill="#18182b"/>
+
+    <!-- Hoodie Body -->
+    <path d="M65 125 Q58 140 52 180 L70 190 L100 195 L130 190 L148 180 Q142 140 135 125Z" fill="#11111b"/>
+    <path d="M75 125 L72 165" stroke="#313244" stroke-width="1.5" fill="none"/>
+    <path d="M125 125 L128 165" stroke="#313244" stroke-width="1.5" fill="none"/>
+
+    <!-- Hood -->
+    <path d="M65 85 Q65 52 100 42 Q135 52 135 85 Q135 100 130 112 L125 125 Q110 130 100 130 Q90 130 75 125 L70 112 Q65 100 65 85Z" fill="#1e1e2e"/>
+    <path d="M70 87 Q70 58 100 49 Q130 58 130 87" stroke="#313244" stroke-width="1.5" fill="none"/>
+
+    <!-- Face -->
+    <ellipse cx="100" cy="97" rx="28" ry="30" fill="#f5e0dc"/>
+
+    <!-- Blinking Eyes -->
+    <g fill="#11111b">
+      <circle cx="89" cy="94" r="3.5"/>
+      <circle cx="111" cy="94" r="3.5"/>
+      <rect x="84" y="89" width="11" height="10" fill="#f5e0dc">
+        <animate attributeName="height" values="0; 0; 0; 10; 0; 0" dur="4s" repeatCount="indefinite"/>
+      </rect>
+      <rect x="105" y="89" width="12" height="10" fill="#f5e0dc">
+        <animate attributeName="height" values="0; 0; 0; 10; 0; 0" dur="4s" repeatCount="indefinite"/>
+      </rect>
+    </g>
+
+    <!-- Glasses -->
+    <rect x="78" y="88" width="18" height="14" rx="3" fill="none" stroke="#89b4fa" stroke-width="2" filter="url(#glow)"/>
+    <rect x="104" y="88" width="18" height="14" rx="3" fill="none" stroke="#89b4fa" stroke-width="2" filter="url(#glow)"/>
+    <line x1="96" y1="95" x2="104" y2="95" stroke="#89b4fa" stroke-width="1.5"/>
+
+    <!-- Headphones -->
+    <path d="M70 85 Q70 60 100 58 Q130 60 130 85" stroke="#45475a" stroke-width="3" fill="none"/>
+    <circle cx="68" cy="88" r="6" fill="#313244"/>
+    <circle cx="132" cy="88" r="6" fill="#313244"/>
+
+    <!-- Waving Arm -->
     <g>
-      <ellipse cx="88" cy="93" rx="5" ry="5.5" fill="white"/>
-      <ellipse cx="112" cy="93" rx="5" ry="5.5" fill="white"/>
-      <circle cx="89" cy="92" r="3" fill="#0d1117"/>
-      <circle cx="113" cy="92" r="3" fill="#0d1117"/>
-      <circle cx="90" cy="91" r="1.2" fill="white"/>
-      <circle cx="114" cy="91" r="1.2" fill="white"/>
+      <animateTransform attributeName="transform" type="rotate" values="0 65 145; 15 65 145; -5 65 145; 0 65 145" dur="2s" repeatCount="indefinite"/>
+      <path d="M65 145 Q48 150 42 162 Q40 168 46 168 L52 164" fill="#f5e0dc"/>
+      <circle cx="43" cy="164" r="3.5" fill="#f5e0dc"/>
+    </g>
+
+    <!-- Laptop with Screen Typing -->
+    <g transform="translate(108, 160)">
+      <rect width="48" height="32" rx="3" fill="#1e1e2e" stroke="#313244" stroke-width="1.5"/>
+      <rect x="4" y="4" width="40" height="24" rx="2" fill="#11111b"/>
       
-      <rect x="82" y="87" width="12" height="0" fill="#e8c4a0">
-        <animate attributeName="height" values="0;0;12;0;0" keyTimes="0;0.85;0.9;0.95;1" dur="4s" repeatCount="indefinite"/>
-      </rect>
-      <rect x="106" y="87" width="12" height="0" fill="#e8c4a0">
-        <animate attributeName="height" values="0;0;12;0;0" keyTimes="0;0.85;0.9;0.95;1" dur="4s" repeatCount="indefinite"/>
-      </rect>
-    </g>
-    
-    <rect x="77" y="86" width="18" height="14" rx="3" fill="none" stroke="#58a6ff" stroke-width="2" filter="url(#glow)">
-      <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
-    </rect>
-    <rect x="105" y="86" width="18" height="14" rx="3" fill="none" stroke="#58a6ff" stroke-width="2" filter="url(#glow)">
-      <animate attributeName="stroke-opacity" values="0.7;1;0.7" dur="2s" repeatCount="indefinite"/>
-    </rect>
-    <line x1="95" y1="93" x2="105" y2="93" stroke="#58a6ff" stroke-width="1.5"/>
-    
-    <path d="M93 110 Q100 116 107 110" stroke="#d47676" stroke-width="2" fill="none" stroke-linecap="round"/>
-    
-    <path d="M72 83 Q75 63 85 61 Q90 70 88 80Z" fill="#0d1117"/>
-    <path d="M128 83 Q125 63 115 61 Q110 70 112 80Z" fill="#0d1117"/>
-    <path d="M85 61 Q95 55 100 58 Q95 65 88 73Z" fill="#0d1117"/>
-    
-    <path d="M65 83 Q65 63 100 60 Q135 63 135 83" stroke="#444" stroke-width="3" fill="none"/>
-    <circle cx="65" cy="87" r="5" fill="#333"/>
-    <circle cx="135" cy="87" r="5" fill="#333"/>
-    <circle cx="65" cy="87" r="2.5" fill="#58a6ff" opacity="0.4">
-      <animate attributeName="opacity" values="0.2;0.7;0.2" dur="1.5s" repeatCount="indefinite"/>
-    </circle>
-    
-    <g>
-      <animateTransform attributeName="transform" type="rotate" values="0 65 150; 15 65 150; -5 65 150; 0 65 150" dur="2s" repeatCount="indefinite"/>
-      <path d="M65 150 Q48 155 42 168 Q40 174 46 174 L52 170" fill="#e8c4a0" stroke="#d4a574" stroke-width="0.8"/>
-      <circle cx="43" cy="170" r="3.5" fill="#e8c4a0"/>
-    </g>
-    
-    <path d="M135 150 Q148 160 142 177 L132 172" fill="#161b22" stroke="#30363d" stroke-width="0.8"/>
-    
-    <g transform="translate(108, 170)">
-      <rect width="48" height="32" rx="3" fill="#21262d" stroke="#30363d" stroke-width="1.5"/>
-      <rect x="4" y="4" width="40" height="22" rx="2" fill="#0d1117"/>
-      <line x1="8" y1="10" x2="25" y2="10" stroke="#58a6ff" stroke-width="2">
-        <animate attributeName="x2" values="8;35;8" dur="2s" repeatCount="indefinite"/>
+      <!-- Screen content typing lines -->
+      <line x1="8" y1="10" x2="22" y2="10" stroke="#89b4fa" stroke-width="1.5">
+        <animate attributeName="x2" values="8; 32; 8" dur="2s" repeatCount="indefinite"/>
       </line>
-      <line x1="8" y1="16" x2="38" y2="16" stroke="#7ee787" stroke-width="2">
-        <animate attributeName="x2" values="8;40;8" dur="2.5s" repeatCount="indefinite"/>
+      <line x1="8" y1="16" x2="35" y2="16" stroke="#a6e3a1" stroke-width="1.5">
+        <animate attributeName="x2" values="8; 38; 8" dur="2.5s" repeatCount="indefinite"/>
       </line>
-      <line x1="8" y1="22" x2="20" y2="22" stroke="#ffa657" stroke-width="2">
-        <animate attributeName="x2" values="8;28;8" dur="1.8s" repeatCount="indefinite"/>
+      <line x1="8" y1="22" x2="20" y2="22" stroke="#fab387" stroke-width="1.5">
+        <animate attributeName="x2" values="8; 25; 8" dur="1.8s" repeatCount="indefinite"/>
       </line>
-      <path d="M-2 32 L50 32 L47 36 L1 36Z" fill="#30363d"/>
+      
+      <path d="M -3 32 L 51 32 L 48 37 L 0 37 Z" fill="#313244"/>
     </g>
-    
-    <ellipse cx="128" cy="170" rx="7" ry="4.5" fill="#e8c4a0"/>
-    
-    <g transform="translate(52, 180)">
-      <rect width="14" height="16" rx="3" fill="#5a3d2b"/>
-      <path d="M14 4 Q20 4 20 9 Q20 14 14 14" fill="none" stroke="#5a3d2b" stroke-width="2"/>
-      <path d="M4 0 Q2 -6 6 -10" stroke="#8b949e" stroke-width="1" fill="none" opacity="0.4">
-        <animate attributeName="d" values="M4 0 Q2 -6 6 -10;M4 0 Q6 -8 2 -12;M4 0 Q2 -6 6 -10" dur="3s" repeatCount="indefinite"/>
-        <animate attributeName="opacity" values="0;0.5;0" dur="3s" repeatCount="indefinite"/>
+
+    <!-- Right Hand on Laptop -->
+    <ellipse cx="125" cy="165" rx="7" ry="4" fill="#f5e0dc"/>
+
+    <!-- Coffee Mug and Animated Steam -->
+    <g transform="translate(48, 175)">
+      <rect width="16" height="18" rx="2" fill="#6c7086"/>
+      <path d="M 16 4 Q 22 4 22 9 Q 22 14 16 14" fill="none" stroke="#6c7086" stroke-width="2"/>
+      
+      <!-- Steam -->
+      <path d="M 4 0 Q 2 -8 6 -12" stroke="#b4befe" stroke-width="1.2" fill="none" opacity="0.6">
+        <animate attributeName="d" values="M 4 0 Q 2 -8 6 -12; M 4 0 Q 6 -8 2 -12; M 4 0 Q 2 -8 6 -12" dur="2s" repeatCount="indefinite"/>
+      </path>
+      <path d="M 10 0 Q 12 -6 8 -10" stroke="#b4befe" stroke-width="1.2" fill="none" opacity="0.4">
+        <animate attributeName="d" values="M 10 0 Q 12 -6 8 -10; M 10 0 Q 8 -6 12 -10; M 10 0 Q 12 -6 8 -10" dur="2.5s" repeatCount="indefinite"/>
       </path>
     </g>
-    
-    <text x="28" y="50" fill="#58a6ff" font-size="10" font-family="monospace" opacity="0.6">&lt;/&gt;
-      <animate attributeName="y" values="50;42;50" dur="3s" repeatCount="indefinite"/>
-      <animate attributeName="opacity" values="0.4;0.9;0.4" dur="3s" repeatCount="indefinite"/>
+
+    <!-- Floating UI/Tech Bits -->
+    <text x="25" y="55" fill="#89b4fa" font-size="11" font-family="monospace">
+      &lt;/&gt;
+      <animate attributeName="y" values="55;45;55" dur="3s" repeatCount="indefinite"/>
     </text>
-    <text x="155" y="45" fill="#ffd700" font-size="9" font-family="monospace" opacity="0.5">{ }
-      <animate attributeName="y" values="45;37;45" dur="2.5s" repeatCount="indefinite"/>
+    <text x="155" y="50" fill="#a6e3a1" font-size="11" font-family="monospace">
+      { }
+      <animate attributeName="y" values="50;40;50" dur="2.5s" repeatCount="indefinite"/>
     </text>
   </g>
 </svg>
