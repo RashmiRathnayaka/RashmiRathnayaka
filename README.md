@@ -39,6 +39,7 @@
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/rashmi-rathnayaka" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi-rathnayaka" height="35" width="45" /></a>
+	[![Portfolio](https://img.shields.io/badge/-Portfolio-red?style=flat&logo=appveyor&logoColor=white)]([https://zachayers.io](https://rashmirathnayaka.github.io/My-Portfolio/))
 </p>
 
 <h3 align="center">Languages and Tools:</h3>
