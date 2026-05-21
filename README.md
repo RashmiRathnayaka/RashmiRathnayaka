@@ -8,6 +8,15 @@
 <h3 align="center">A passionate Full-Stack Developer from Sri Lanka</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rashmirathnayaka&label=Profile%20views&color=0e75b6&style=flat" alt="rashmirathnayaka" /> </p>
+<div>
+  <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon"width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="50" height="50" />
+ <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="50" height="50" />
+</div>
+</br>
+
 
 <table border="0" cellpadding="" cellspacing="5" width="100%">
   <tr>
@@ -42,8 +51,6 @@
 </p>
 
 <h3>Skills Set:</h3>
-
-These are some of the major technologies that I use or have worked on in the past:
 
 **Programming Languages**
 
