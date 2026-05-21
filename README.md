@@ -45,28 +45,59 @@
   ![Rashmi GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=rashmirathnayaka&theme=tokyonight)
 </div>
 
-<h3>Connect with me:</h3>
-<a href="https://linkedin.com/in/rashmi-rathnayaka" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rashmi-rathnayaka" height="30" width="40" /></a>
+<p align="center">
 
+<h3 align="center">Connect with me:</h3>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rashmi-rathnayaka" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
+    alt="linkedin" height="30" width="40" />
+  </a>
 </p>
 
-<h3>Skills Set:</h3>
+<h3 align="center">Skills Set:</h3>
 
-**Programming Languages**
+<h4 align="center">Programming Languages</h4>
 
-<img title="Python" alt="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" /> <img alt="JS" title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png"> <img title="C" alt="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png">
+<p align="center">
+<img title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
+<img title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
+<img title="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
+</p>
 
-**Libraries and Frameworks**
+<h4 align="center">Libraries and Frameworks</h4>
 
-<img title="React" alt="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png"> <img title="Tailwind CSS" alt="Tailwind CSS" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/tailwind/tailwind.png"> <img title="Node.js" alt="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png"> <img title="Express.js" alt="Express.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/express/express.png"> <img title="Spring Boot" alt="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png"> <img title="Android" alt="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png"> <img title="Kotlin" alt="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png"> <img title="Playwright" alt="Playwright" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/playwright/playwright.png">
+<p align="center">
+<img title="React" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/react/react.png" />
+<img title="Tailwind CSS" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original.svg" />
+<img title="Node.js" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/nodejs/nodejs.png" />
+<img title="Express.js" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" />
+<img title="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" />
+<img title="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
+<img title="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
+<img title="Playwright" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/playwright/playwright.png" />
+</p>
 
-**Databases**
+<h4 align="center">Databases</h4>
 
-<img title="SQL" alt="SQL" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/sql/sql.png"> <img title="MongoDB" alt="MongoDB" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/mongodb/mongodb.png">
+<p align="center">
+<img title="MySQL" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+<img title="MongoDB" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" />
+</p>
 
-**Tools**
+<h4 align="center">Tools</h4>
 
-<img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> <img title="git" alt="git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png"> <img title="GitHub" alt="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png"> <img title="Figma" alt="Figma" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/figma/figma.png"> <img title="GitHub Desktop" alt="GitHub Desktop" width="40px" src="https://desktop.github.com/images/desktop-icon.svg"> <img title="Photoshop" alt="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg">
+<p align="center">
+<img title="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png" />
+<img title="Git" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/git/git.png" />
+<img title="GitHub" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/github/github.png" />
+<img title="Figma" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+<img title="GitHub Desktop" width="40px" src="https://desktop.github.com/images/desktop-icon.svg" />
+<img title="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+</p>
+
+</p>
 
 
 
