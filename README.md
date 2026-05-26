@@ -33,9 +33,7 @@
 
 ⚡ Fun fact **I enjoy turning complex ideas into clean and user-friendly interfaces** 😄
 
-## 🎓 My Certificates
-
-  👉 [View My Certificates](https://github.com/RashmiRathnayaka/My-Certificates)
+## 🎓 [My Certificates](https://github.com/RashmiRathnayaka/My-Certificates)
 
 
 </td>
