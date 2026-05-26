@@ -34,8 +34,8 @@
 ⚡ Fun fact **I enjoy turning complex ideas into clean and user-friendly interfaces** 😄
 
 ## 🎓 My Certificates
-Explore all my verified certificates here:  
-        👉 [View My Certificates Repository](https://github.com/RashmiRathnayaka/My-Certificates)
+
+Explore all my verified certificates here:  👉 [View My Certificates](https://github.com/RashmiRathnayaka/My-Certificates)
 
 </td>
     <td width="35%" valign="top" align="right">
