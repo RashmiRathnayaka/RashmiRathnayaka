@@ -25,7 +25,9 @@
 
 🎓 I'm an Undergraduate at **SLIIT**
 
-👨‍💻 All of my projects are available at [https://rashmirathnayaka.github.io/My-Portfolio/](https://rashmirathnayaka.github.io/My-Portfolio/)
+👨‍💻 All of my projects are available at [My Portfolio](https://rashmirathnayaka.github.io/My-Portfolio/)
+
+🏅 A collection of my certifications at [My Achievements](https://github.com/RashmiRathnayaka/My-Certificates)
 
 💬 Ask me about **React, JavaScript (ES6+), UI Design, MERN Stack**
 
@@ -33,7 +35,7 @@
 
 ⚡ Fun fact **I enjoy turning complex ideas into clean and user-friendly interfaces** 😄
 
-## 🎓 [My Certificates](https://github.com/RashmiRathnayaka/My-Certificates)
+
 
 
 </td>
