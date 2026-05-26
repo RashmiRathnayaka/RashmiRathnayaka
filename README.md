@@ -27,14 +27,16 @@
 
 👨‍💻 All of my projects are available at [https://rashmirathnayaka.github.io/My-Portfolio/](https://rashmirathnayaka.github.io/My-Portfolio/)
 
-## 🎓 My Certificates
-Explore all my verified certificates here:  👉 [View My Certificates Repository](https://github.com/RashmiRathnayaka/My-Certificates)
-
 💬 Ask me about **React, JavaScript (ES6+), UI Design, MERN Stack**
 
 📫 How to reach me **rashmipra02@gmail.com**
 
 ⚡ Fun fact **I enjoy turning complex ideas into clean and user-friendly interfaces** 😄
+
+## 🎓 My Certificates
+Explore all my verified certificates here:  
+        👉 [View My Certificates Repository](https://github.com/RashmiRathnayaka/My-Certificates)
+
 </td>
     <td width="35%" valign="top" align="right">
       <img src="./tech.svg" alt="Yellow Tech Network" width="360" />
