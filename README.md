@@ -25,7 +25,7 @@
 
 🎓 I'm an Undergraduate at **SLIIT**
 
-👨‍💻 All of my projects are available at [My Portfolio](https://rashmirathnayaka.github.io/My-Portfolio/)
+👨‍💻 All of my projects are available at [My Portfolio](https://spiffy-macaron-24053d.netlify.app/)
 
 🏅 A collection of my certifications at [My Achievements](https://github.com/RashmiRathnayaka/My-Certificates)
 
