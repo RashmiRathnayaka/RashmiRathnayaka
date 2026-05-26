@@ -53,6 +53,10 @@
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
     alt="linkedin" height="30" width="40" />
   </a>
+  <a href="https://wa.me/94755197475" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
+    alt="whatsapp" height="30" width="40" />
+  </a>
 </p>
 
 <h3 align="center">Skills Set:</h3>
