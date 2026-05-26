@@ -35,7 +35,8 @@
 
 ## 🎓 My Certificates
 
-Explore all my verified certificates here:  👉 [View My Certificates](https://github.com/RashmiRathnayaka/My-Certificates)
+  👉 [View My Certificates](https://github.com/RashmiRathnayaka/My-Certificates)
+
 
 </td>
     <td width="35%" valign="top" align="right">
