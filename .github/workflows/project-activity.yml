@@ -2,6 +2,9 @@
 name: Update Project Activity
 
 on:
+  push:
+    branches:
+      - main
   schedule:
     - cron: "0 0 * * *"
   workflow_dispatch:
@@ -36,4 +39,3 @@ jobs:
             git commit -m "Update project activity dashboard"
             git push
           )
-
