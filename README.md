@@ -143,21 +143,17 @@
 <h2 align="center">📊 Project-wise Activity</h2>
 
 <p align="center">
-  <img
-    src="./assets/project-activity.svg"
-    width="100%"
-    alt="Project-wise Commit Graph"
-  />
+  <img src="./assets/project-activity.svg"
+       width="100%"
+       alt="Project Activity Graph" />
 </p>
 
 <h2 align="center">🗓️ Recent Project Activity</h2>
 
 <p align="center">
-  <img
-    src="./assets/recent-project-activity.svg"
-    width="100%"
-    alt="Recent Project Activity"
-  />
+  <img src="./assets/recent-project-activity.svg"
+       width="100%"
+       alt="Recent Project Activity" />
 </p>
 
 
