@@ -114,4 +114,5 @@
   <img title="GitHub Desktop" width="40px" src="https://desktop.github.com/images/desktop-icon.svg" />
   <img title="Postman" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" />
   <img title="Photoshop" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" />
+  <img title="Claude AI" width="40px" src="https://cdn.simpleicons.org/anthropic/D97757" />
 </p>
