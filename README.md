@@ -126,8 +126,8 @@
 
 <p align="center">
   <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=RashmiRathnayaka&theme=github-compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=RashmiRathnayaka&show_icons=true&theme=github_dark"
     width="100%"
-    alt="Contribution Activity Graph"
+    alt="GitHub Statistics"
   />
 </p>
