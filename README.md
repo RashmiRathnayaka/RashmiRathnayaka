@@ -123,14 +123,20 @@
 <img title="Google Gemini" width="40px" src="https://cdn.simpleicons.org/googlegemini/8E75B2" />
 
 
-<h2 align="center">📊 Contribution Activity</h2>
+<h2 align="center">📊 Daily Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/activity-assets/activity-365d.svg"
+    src="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/activity-assets/activity-30d.svg"
     width="100%"
     alt="Daily GitHub Activity"
   />
+</p>
+
+<p align="center">
+  <a href="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/activity-assets/activity-30d.svg">30 Days</a> ·
+  <a href="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/activity-assets/activity-90d.svg">90 Days</a> ·
+  <a href="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/activity-assets/activity-365d.svg">365 Days</a>
 </p>
 
 <h2 align="center">📅 Contribution Calendar</h2>
