@@ -122,12 +122,28 @@
 <img title="AI" width="40px" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" />
 <img title="Google Gemini" width="40px" src="https://cdn.simpleicons.org/googlegemini/8E75B2" />
 
+
 <h2 align="center">📊 Contribution Activity</h2>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=RashmiRathnayaka&show_icons=true&theme=github_dark"
+    src="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/activity-assets/activity-365d.svg"
     width="100%"
-    alt="GitHub Statistics"
+    alt="Daily GitHub Activity"
   />
 </p>
+
+<h2 align="center">📅 Contribution Calendar</h2>
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="./assets/contributions.dark.svg"
+  />
+  <img
+    src="./assets/contributions.light.svg"
+    width="100%"
+    alt="GitHub Contribution Calendar"
+  />
+</picture>
+
