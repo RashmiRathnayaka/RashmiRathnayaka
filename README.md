@@ -78,6 +78,7 @@
   <img title="Python" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/python/python.png" />
   <img title="JavaScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/javascript/javascript.png" />
   <img title="C" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/c/c.png" />
+  <img title="TypeScript" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/typescript/typescript.png" />
 </p>
 
 <h4 align="center">Libraries and Frameworks</h4>
