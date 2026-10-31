@@ -121,3 +121,13 @@
 <img title="Claude AI" width="40px" src="https://cdn.simpleicons.org/anthropic/D97757" />
 <img title="AI" width="40px" src="https://cdn-icons-png.flaticon.com/512/4712/4712109.png" />
 <img title="Google Gemini" width="40px" src="https://cdn.simpleicons.org/googlegemini/8E75B2" />
+
+<h2 align="center">📊 Contribution Activity</h2>
+
+<p align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=RashmiRathnayaka&theme=github-compact&hide_border=true"
+    width="100%"
+    alt="Contribution Activity Graph"
+  />
+</p>
