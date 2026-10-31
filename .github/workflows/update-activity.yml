@@ -2,8 +2,11 @@
 name: Update GitHub Activity Chart
 
 on:
+  push:
+    branches:
+      - main
   schedule:
-    - cron: "0 */6 * * *"
+    - cron: "0 0 * * *"
   workflow_dispatch:
 
 permissions:
@@ -14,13 +17,21 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Generate Activity Charts
-        uses: dturovskiy/deus-commit-chart@v1
-        with:
-          username: RashmiRathnayaka
-          token: ${{ secrets.GITHUB_TOKEN }}
-          ranges: 30,90,365
-          theme: github-compact
-          layout: spacious
-          output-dir: activity-assets
+      - name: Checkout repository
+        uses: actions/checkout@v4
 
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: RashmiRathnayaka
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+
+      - name: Publish Snake
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
