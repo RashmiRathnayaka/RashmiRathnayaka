@@ -135,15 +135,11 @@
 
 <h2 align="center">📅 Contribution Calendar</h2>
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="./assets/contributions.dark.svg"
-  />
+<p align="center">
   <img
-    src="./assets/contributions.light.svg"
+    src="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/calendar/contribution-calendar.svg"
     width="100%"
     alt="GitHub Contribution Calendar"
   />
-</picture>
+</p>
 
