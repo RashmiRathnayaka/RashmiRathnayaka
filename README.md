@@ -89,6 +89,7 @@
   <img title="Spring Boot" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/spring/spring.png" />
   <img title="Android" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/android/android.png" />
   <img title="Kotlin" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/kotlin/kotlin.png" />
+  <img title="Expo" width="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expo/expo-original.svg" />
   <img title="Playwright" width="40px" src="https://raw.githubusercontent.com/github/explore/master/topics/playwright/playwright.png" />
 </p>
 
