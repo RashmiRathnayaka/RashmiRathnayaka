@@ -119,3 +119,5 @@
 <h4 align="center">AI Integration</h4>
 <p align="center">
 <img title="Claude AI" width="40px" src="https://cdn.simpleicons.org/anthropic/D97757" />
+<img title="OpenAI" width="40px" src="https://cdn.simpleicons.org/openai/412991" />
+<img title="Google Gemini" width="40px" src="https://cdn.simpleicons.org/googlegemini/8E75B2" />
