@@ -15,13 +15,13 @@
       <rect x="220" y="22" width="490"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="37" fill="#E6EDF3"
-        font-size="14">41 commits</text>
+        font-size="14">42 commits</text>
     
       <text x="20" y="98" fill="#E6EDF3"
         font-size="15">Pala Mithura</text>
       <rect x="220" y="80" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="80" width="191.21951219512195"
+      <rect x="220" y="80" width="186.66666666666666"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="95" fill="#E6EDF3"
         font-size="14">16 commits</text>
@@ -30,7 +30,7 @@
         font-size="15">Employee SaaS</text>
       <rect x="220" y="138" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="138" width="179.2682926829268"
+      <rect x="220" y="138" width="175"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="153" fill="#E6EDF3"
         font-size="14">15 commits</text>
@@ -39,7 +39,7 @@
         font-size="15">Finance Tracker</text>
       <rect x="220" y="196" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="196" width="47.80487804878049"
+      <rect x="220" y="196" width="46.666666666666664"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="211" fill="#E6EDF3"
         font-size="14">4 commits</text>
@@ -48,7 +48,7 @@
         font-size="15">Portfolio Design</text>
       <rect x="220" y="254" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="254" width="35.853658536585364"
+      <rect x="220" y="254" width="35"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="269" fill="#E6EDF3"
         font-size="14">3 commits</text>
@@ -57,7 +57,7 @@
         font-size="15">Pradeshiya Sabha</text>
       <rect x="220" y="312" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="312" width="35.853658536585364"
+      <rect x="220" y="312" width="35"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="327" fill="#E6EDF3"
         font-size="14">3 commits</text>
