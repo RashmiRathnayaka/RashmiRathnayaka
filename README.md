@@ -44,7 +44,10 @@
 
 ⚡ Fun fact: **I enjoy turning complex ideas into clean and user-friendly interfaces** 😄
 
-    <td width="35%" valign="top" align="right">
+   <img align="right"
+     src="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/main/tech.svg"
+     alt="Yellow Tech Network"
+     width="360" />
   <img src="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/main/tech.svg"
        alt="Yellow Tech Network"
        width="360" />
