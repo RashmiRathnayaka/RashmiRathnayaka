@@ -117,4 +117,5 @@
 </p>
 
 <h4 align="center">AI Integration</h4>
+<p align="center">
 <img title="Claude AI" width="40px" src="https://cdn.simpleicons.org/anthropic/D97757" />
