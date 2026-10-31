@@ -137,9 +137,8 @@
 
 <p align="center">
   <img
-    src="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/calendar/contribution-calendar.svg"
+    src="https://raw.githubusercontent.com/RashmiRathnayaka/RashmiRathnayaka/output/github-contribution-grid-snake.svg"
     width="100%"
     alt="GitHub Contribution Calendar"
   />
 </p>
-
