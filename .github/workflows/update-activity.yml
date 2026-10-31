@@ -1,1 +1,26 @@
 
+name: Update GitHub Activity Chart
+
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate Activity Charts
+        uses: dturovskiy/deus-commit-chart@v1
+        with:
+          username: RashmiRathnayaka
+          token: ${{ secrets.GITHUB_TOKEN }}
+          ranges: 30,90,365
+          theme: github-compact
+          layout: spacious
+          output-dir: activity-assets
+
