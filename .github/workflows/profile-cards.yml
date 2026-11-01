@@ -24,7 +24,7 @@ jobs:
           outputs: |
             dist/contribution-calendar.svg?color_dots=%23000000,%230e4429,%23006d32,%2326a641,%2339d353
 
-      - name: Add Black Background
+      - name: Add Black Background 
         run: |
           python - <<'PY'
           from pathlib import Path
