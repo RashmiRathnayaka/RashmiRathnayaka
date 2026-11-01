@@ -1,30 +1,5 @@
 
-name: Generate Profile Cards
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-permissions:
-  contents: write
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout repository
-        uses: actions/checkout@v4
-
-      - name: Generate Contribution Snake
-        uses: Platane/snk@v3
-        with:
-          github_user_name: RashmiRathnayaka
-          outputs: |
-            dist/contribution-calendar.svg?color_dots=%23000000,%230e4429,%23006d32,%2326a641,%2339d353
-
-      - name: Add Black Background 
+      - name: Apply Dark Calendar Theme
         run: |
           python - <<'PY'
           from pathlib import Path
@@ -33,6 +8,7 @@ jobs:
           file = Path("dist/contribution-calendar.svg")
           svg = file.read_text()
 
+          # Add a black background
           svg = re.sub(
               r'(<svg\b[^>]*>)',
               r'\1<rect width="100%" height="100%" fill="#000000"/>',
@@ -40,13 +16,9 @@ jobs:
               count=1
           )
 
+          # Change empty white contribution squares to dark grey
+          svg = svg.replace("#ebedf0", "#161b22")
+          svg = svg.replace("#EBEDF0", "#161b22")
+
           file.write_text(svg)
           PY
-
-      - name: Publish Calendar
-        uses: crazy-max/ghaction-github-pages@v3.1.0
-        with:
-          target_branch: calendar
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
