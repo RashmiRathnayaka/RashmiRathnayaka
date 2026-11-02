@@ -30,10 +30,10 @@
         font-size="15">Employee SaaS</text>
       <rect x="220" y="138" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="138" width="156.38297872340425"
+      <rect x="220" y="138" width="354.468085106383"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="153" fill="#E6EDF3"
-        font-size="14">15 commits</text>
+        font-size="14">34 commits</text>
     
       <text x="20" y="214" fill="#E6EDF3"
         font-size="15">Finance Tracker</text>

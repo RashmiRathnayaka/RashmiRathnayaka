@@ -8,112 +8,112 @@
       Recent Project Activity
     </text>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/d96a4702fc01af57c921eb2359513b25efb93767">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/0f426c78938e138d8c36fdd2d7168d14c22bf00b">
         <text x="20" y="65" fill="#58A6FF"
           font-size="13">2026-11-01</text>
         <text x="130" y="65" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="84" fill="#C9D1D9"
-          font-size="12">Refactor GitHub Actions workflow for profile cards</text>
+          font-size="12">docs: real-device fixes and step 1.6 report</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/89f524bce73bb4cc3b989f1df82f79643f4d4ae8">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/cf63edf759950b1b3d03747fc29aad7552623e7f">
         <text x="20" y="122" fill="#58A6FF"
           font-size="13">2026-11-01</text>
         <text x="130" y="122" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="141" fill="#C9D1D9"
-          font-size="12">Fix formatting in profile-cards.yml workflow</text>
+          font-size="12">fix(mobile): fix date picker and proof upload on real Android devices</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/46015ffafd611cc3feb932e250d93c0666457263">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/229b3d2d2448c3f78c8946ea76e8c9617a213104">
         <text x="20" y="179" fill="#58A6FF"
           font-size="13">2026-11-01</text>
         <text x="130" y="179" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="198" fill="#C9D1D9"
-          font-size="12">Change contribution calendar color palette</text>
+          font-size="12">fix(api): redact cookie, authorization and set-cookie headers from request logs</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/2c767a07ab5ab123604e309bed10486559251add">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/7a26f9fce76694bd5c606ef4743fa3d963d7e91c">
         <text x="20" y="236" fill="#58A6FF"
           font-size="13">2026-11-01</text>
         <text x="130" y="236" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="255" fill="#C9D1D9"
-          font-size="12">Add step to include black background in SVG</text>
+          font-size="12">fix(mobile): make the app bundle on real devices</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/fcdf35ab1f509bafaa280b43a543009bc799a732">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/398117d1460fa144c9d2a04beda803e14dbff1fc">
         <text x="20" y="293" fill="#58A6FF"
           font-size="13">2026-11-01</text>
         <text x="130" y="293" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="312" fill="#C9D1D9"
-          font-size="12">Update profile-cards.yml</text>
+          font-size="12">docs: add run-on-your-phone guide and step 1.6 report</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/16cd6452ed0ffdcf493cafd5d46c35430368e81d">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/0d9d05f5f609fe7bf612004002ec9b26c1153f4d">
         <text x="20" y="350" fill="#58A6FF"
-          font-size="13">2026-10-31</text>
+          font-size="13">2026-11-01</text>
         <text x="130" y="350" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="369" fill="#C9D1D9"
-          font-size="12">Update README.md</text>
+          font-size="12">feat(mobile): add sick leave proof upload to leave detail screen</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/d9b1d6982f0864373f0ee91f9a59bd5905093bba">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/c9344f11d5009bc9cc0fa487aebda9c22a9abc79">
         <text x="20" y="407" fill="#58A6FF"
-          font-size="13">2026-10-31</text>
+          font-size="13">2026-11-01</text>
         <text x="130" y="407" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="426" fill="#C9D1D9"
-          font-size="12">Update project-activity.yml</text>
+          font-size="12">feat(mobile): add proof file validation, compression and upload helpers</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/4b8316ead4700d86557367dcfefc1a18b8b0d917">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/0eb618fb2909ea9c29760a34d0b8592bb47db730">
         <text x="20" y="464" fill="#58A6FF"
-          font-size="13">2026-10-31</text>
+          font-size="13">2026-11-01</text>
         <text x="130" y="464" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="483" fill="#C9D1D9"
-          font-size="12">Enhance README with project activity sections</text>
+          font-size="12">build(mobile): add image/document picker modules and align Expo versions with SDK 58</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/62aadcc717626f7b784803373f2b675c490ad3c3">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/cf4206d7d989af69779bb5e6a00547ab6899542c">
         <text x="20" y="521" fill="#58A6FF"
-          font-size="13">2026-10-31</text>
+          font-size="13">2026-11-01</text>
         <text x="130" y="521" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="540" fill="#C9D1D9"
-          font-size="12">Add GitHub Actions workflow for project activity updates</text>
+          font-size="12">fix(api): use cheaper argon2 cost in tests via hashPassword helper</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/724bc0d08400b26d9fe2f5f70e115ef71cb2701e">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/84e2e5f2db0b0b5f0c4d2bd56afb17c962d9fce7">
         <text x="20" y="578" fill="#58A6FF"
-          font-size="13">2026-10-31</text>
+          font-size="13">2026-11-01</text>
         <text x="130" y="578" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="597" fill="#C9D1D9"
-          font-size="12">Create project-activity.yml</text>
+          font-size="12">docs: update step 1.6 progress</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/de569b64331e1b438ee022b82dbf32716c934d99">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/b58a617f94f4cfa0404d54daa37a43ca45eced1f">
         <text x="20" y="635" fill="#58A6FF"
-          font-size="13">2026-10-31</text>
+          font-size="13">2026-11-01</text>
         <text x="130" y="635" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="654" fill="#C9D1D9"
-          font-size="12">Update project-activity.mjs</text>
+          font-size="12">feat(mobile): add home, profile and leave screens with apply form</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/8ddfa3581124d343dc4f91b4d3500c8f17b710e2">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/6d417a4aed3642ae8c9f85e9e497ebbf9add33ea">
         <text x="20" y="692" fill="#58A6FF"
-          font-size="13">2026-10-31</text>
+          font-size="13">2026-11-01</text>
         <text x="130" y="692" fill="#3FB950"
-          font-size="14">GitHub Profile</text>
+          font-size="14">Employee SaaS</text>
         <text x="130" y="711" fill="#C9D1D9"
-          font-size="12">Create project-activity.mjs</text>
+          font-size="12">feat(mobile): add UI components, queries and leave status helpers</text>
       </a>
     
   </svg>
