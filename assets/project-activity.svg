@@ -12,7 +12,7 @@
         font-size="15">GitHub Profile</text>
       <rect x="220" y="22" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="22" width="490"
+      <rect x="220" y="22" width="470"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="37" fill="#E6EDF3"
         font-size="14">47 commits</text>
@@ -21,7 +21,7 @@
         font-size="15">Pala Mithura</text>
       <rect x="220" y="80" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="80" width="166.80851063829786"
+      <rect x="220" y="80" width="160"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="95" fill="#E6EDF3"
         font-size="14">16 commits</text>
@@ -30,16 +30,16 @@
         font-size="15">Employee SaaS</text>
       <rect x="220" y="138" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="138" width="354.468085106383"
+      <rect x="220" y="138" width="490"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="153" fill="#E6EDF3"
-        font-size="14">34 commits</text>
+        font-size="14">49 commits</text>
     
       <text x="20" y="214" fill="#E6EDF3"
         font-size="15">Finance Tracker</text>
       <rect x="220" y="196" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="196" width="41.702127659574465"
+      <rect x="220" y="196" width="40"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="211" fill="#E6EDF3"
         font-size="14">4 commits</text>
@@ -48,7 +48,7 @@
         font-size="15">Portfolio Design</text>
       <rect x="220" y="254" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="254" width="31.276595744680847"
+      <rect x="220" y="254" width="30"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="269" fill="#E6EDF3"
         font-size="14">3 commits</text>
@@ -57,7 +57,7 @@
         font-size="15">Pradeshiya Sabha</text>
       <rect x="220" y="312" width="490" height="18"
         rx="8" fill="#30363D"/>
-      <rect x="220" y="312" width="31.276595744680847"
+      <rect x="220" y="312" width="30"
         height="18" rx="8" fill="#2EA043"/>
       <text x="730" y="327" fill="#E6EDF3"
         font-size="14">3 commits</text>
