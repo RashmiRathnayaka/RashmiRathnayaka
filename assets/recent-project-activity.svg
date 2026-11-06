@@ -8,112 +8,112 @@
       Recent Project Activity
     </text>
     
-      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/c9013d89cc56cb5890d0e8c94b3900234ed49855">
+      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/62a54d4a15dca6ec01acf9c2c7f13d473f0cf6dc">
         <text x="20" y="65" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="65" fill="#3FB950"
           font-size="14">GitHub Profile</text>
         <text x="130" y="84" fill="#C9D1D9"
+          font-size="12">Replace tech stack icons with new sources</text>
+      </a>
+    
+      <a href="https://github.com/RashmiRathnayaka/RashmiRathnayaka/commit/c9013d89cc56cb5890d0e8c94b3900234ed49855">
+        <text x="20" y="122" fill="#58A6FF"
+          font-size="13">2026-11-06</text>
+        <text x="130" y="122" fill="#3FB950"
+          font-size="14">GitHub Profile</text>
+        <text x="130" y="141" fill="#C9D1D9"
           font-size="12">Change JavaScript icon width in README</text>
       </a>
     
       <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/deb66d85dc6463e77686cc209a9684b5cce4d336">
-        <text x="20" y="122" fill="#58A6FF"
-          font-size="13">2026-11-06</text>
-        <text x="130" y="122" fill="#3FB950"
-          font-size="14">Employee SaaS</text>
-        <text x="130" y="141" fill="#C9D1D9"
-          font-size="12">docs: correction rules, schedule overrides, UX backlog and step 2.6 report</text>
-      </a>
-    
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/4a68182f7b85f410b2231904475764432e95b686">
         <text x="20" y="179" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="179" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="198" fill="#C9D1D9"
-          font-size="12">feat(web): add HR attendance pages, correction dialogs, schedule overrides and visit </text>
+          font-size="12">docs: correction rules, schedule overrides, UX backlog and step 2.6 report</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/ef96502c1fc737f3476eab255091b52a6381671e">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/4a68182f7b85f410b2231904475764432e95b686">
         <text x="20" y="236" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="236" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="255" fill="#C9D1D9"
-          font-size="12">feat(mobile): show my schedule, site check-in confirmation and correction notificatio</text>
+          font-size="12">feat(web): add HR attendance pages, correction dialogs, schedule overrides and visit </text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/388f7a189879f0e2794b80207a83f2cec4411e14">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/ef96502c1fc737f3476eab255091b52a6381671e">
         <text x="20" y="293" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="293" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="312" fill="#C9D1D9"
-          font-size="12">feat(api): add HR attendance views, corrections with audit trail, schedule overrides </text>
+          font-size="12">feat(mobile): show my schedule, site check-in confirmation and correction notificatio</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/ba02951dd0e8bbd7b034d54b7b01f843ca671e54">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/388f7a189879f0e2794b80207a83f2cec4411e14">
         <text x="20" y="350" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="350" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="369" fill="#C9D1D9"
-          font-size="12">feat(shared): add attendance correction, admin list, schedule override and detail sch</text>
+          font-size="12">feat(api): add HR attendance views, corrections with audit trail, schedule overrides </text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/9cfa420ecbeec9bbb0db935825dc96e7759cb681">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/ba02951dd0e8bbd7b034d54b7b01f843ca671e54">
         <text x="20" y="407" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="407" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="426" fill="#C9D1D9"
-          font-size="12">docs: site visit rules and step 2.5 report</text>
+          font-size="12">feat(shared): add attendance correction, admin list, schedule override and detail sch</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/ecd7c06372868bd426335463dccf33fe7f74c8cf">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/9cfa420ecbeec9bbb0db935825dc96e7759cb681">
         <text x="20" y="464" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="464" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="483" fill="#C9D1D9"
-          font-size="12">feat(web): add Site visits page with on site now and history, and open it from the no</text>
+          font-size="12">docs: site visit rules and step 2.5 report</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/0cb031d7d38a0c42fe776fbde8769b3e83625f83">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/ecd7c06372868bd426335463dccf33fe7f74c8cf">
         <text x="20" y="521" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="521" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="540" fill="#C9D1D9"
-          font-size="12">feat(mobile): add site check-in with picker, open-visit banner and timer, and My visi</text>
+          font-size="12">feat(web): add Site visits page with on site now and history, and open it from the no</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/a7e5f890b3e85be88263d01a1f61eadbeceb4a2d">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/0cb031d7d38a0c42fe776fbde8769b3e83625f83">
         <text x="20" y="578" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="578" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="597" fill="#C9D1D9"
-          font-size="12">feat(api): add site visits with GPS rules, day start, AFTER_HOURS and ON_ABSENT_DAY f</text>
+          font-size="12">feat(mobile): add site check-in with picker, open-visit banner and timer, and My visi</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/2e5e353d377b0a66b929fedba23039e8352c06e3">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/a7e5f890b3e85be88263d01a1f61eadbeceb4a2d">
         <text x="20" y="635" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="635" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="654" fill="#C9D1D9"
-          font-size="12">feat(shared): add site visit schemas, flags and open-visit field on today</text>
+          font-size="12">feat(api): add site visits with GPS rules, day start, AFTER_HOURS and ON_ABSENT_DAY f</text>
       </a>
     
-      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/c2f290e58851d5c483a6203c23206e297a41fbf8">
+      <a href="https://github.com/RashmiRathnayaka/employee-saas/commit/2e5e353d377b0a66b929fedba23039e8352c06e3">
         <text x="20" y="692" fill="#58A6FF"
           font-size="13">2026-11-06</text>
         <text x="130" y="692" fill="#3FB950"
           font-size="14">Employee SaaS</text>
         <text x="130" y="711" fill="#C9D1D9"
-          font-size="12">docs: GPS rules, 2.3 decisions and step 2.4 report</text>
+          font-size="12">feat(shared): add site visit schemas, flags and open-visit field on today</text>
       </a>
     
   </svg>
