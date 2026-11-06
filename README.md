@@ -16,11 +16,11 @@
 </p>
 
 <div>
-  <img src="https://techstack-generator.vercel.app/js-icon.svg" width="50" alt="JavaScript"/>
-  <img src="https://techstack-generator.vercel.app/react-icon.svg" width="50" alt="React"/>
-  <img src="https://techstack-generator.vercel.app/github-icon.svg" width="50" alt="GitHub"/>
-  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" width="50" alt="MySQL"/>
-  <img src="https://techstack-generator.vercel.app/ts-icon.svg" width="50" alt="TypeScript"/>
+  <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="50" height="50" />
+  <img src="https://techstack-generator.vercel.app/ts-icon.svg" alt="TypeScript" width="50" height="50" />
 </div>
 
 <br/>
